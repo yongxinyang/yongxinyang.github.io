@@ -1,5 +1,5 @@
 ---
-layout: essay
+layout: essays
 type: essay
 title: JavaScript: A Minimalist
 date: 2021-01-20
