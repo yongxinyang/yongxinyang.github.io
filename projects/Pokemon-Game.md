@@ -3,8 +3,6 @@ layout: project
 type: project
 image: images/pokemon.jpg
 title: Pokemon Game
-permalink: projects/vacay
-# All dates must be YYYY-MM-DD format!
 date: 2021-01-20
 labels:
   - Java
