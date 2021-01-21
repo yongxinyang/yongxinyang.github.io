@@ -2,7 +2,6 @@
 layout: essay
 type: essay
 title: JavaScript: A Minimalist
-# All dates must be YYYY-MM-DD format!
 date: 2021-01-20
 labels:
   - Javascript
