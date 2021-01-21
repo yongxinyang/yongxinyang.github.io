@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/pokemon.jpg
+image: images/pokemon-logo.jpg
 title: Pokemon Game
 date: 2021-01-20
 labels:
