@@ -2,43 +2,30 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
-# All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+title: Screen printing
+date: 2021-01-20
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Screen print
+  - Design
+  
+summary: My group project for high school media learning center showcase.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
+  <img class="ui image" src="../printing-1.jpg">
   <img class="ui image" src="../images/micromouse-robot-2.jpg">
   <img class="ui image" src="../images/micromouse.jpg">
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+This was a final project for my high school media learning center showcase night. What I needed to achieve with my group mates was to design our group shirt, with respect to the school spirit  “ tradition and pride”. Posters, personal stickers, and presentations were created to supplemented to enrich our project showcase.  
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+In this project, I learned how to apply t-shirt screen printing. Beginning with designing the logo, which should appropriately represent the school symbol as well as the theme. My contribution was mainly to create this logo using Adobe Illustrator. I took a tiger paw as the outline,  integrating the fire element. The most important step was screen printing, which required a group collaboration. 
+Screen printing is the process of transferring a stenciled design onto a flat surface using a mesh screen, ink, and a squeegee. First of all, we separated the artwork into its two color components, and printed them out onto a transparent acetate film. Bringing it to a dark room, we coated the prepared mesh screen with a light-sensitive emulsion. After the screen has been exposed for a set time, the areas of the screen not covered by the design will have turned hard. We used water to rinse off the unhardened emulsion so that the design would be revealed on the screen. Having all of these preparations done, we could move on to the printing process. Each screen was locked into the press and aligned to the pallet, which would hold the shirt to be printed. The ink was added to the top end of the screen, and a squeegee is used to pull the ink along the full length of the stencil, covering the open areas. The printer must use his skills to apply different pushes to ensure the design was imprinted on the product underneath. To create multi-coloured products, the shirt should be flash dried before the application of the next color, and it was crucial to line them up perfectly to ensure the final design is seamless. 
 
-Here is some code that illustrates how we read values from the line sensors:
+This was an interesting experience with product design and visual design. Our artwork was later selected as the represented logo of the class, and also my group won second place at the showcase night. This project built my interest in exploring the design field of computer science.
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
 
 
 
