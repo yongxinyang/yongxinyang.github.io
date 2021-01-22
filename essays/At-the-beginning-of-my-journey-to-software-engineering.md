@@ -7,7 +7,7 @@ labels:
   - software engineering
 ---
 
-<img class ="ui tiny right spaced image" src ="../images/software.jpg">
+<img class ="ui image" src ="../images/software.jpg">
 
 ## Software engineering attracts me
 
