@@ -11,7 +11,7 @@ labels:
 summary: My group project for high school media learning center showcase.
 ---
 
-  <img class="ui image" src="../printing-1.JPG">
+  <img class="ui image" src="../images/printing-1.JPG">
 
 
 This was a final project for my high school media learning center showcase night. What I needed to achieve with my group mates was to design our group shirt, with respect to the school spirit  “ tradition and pride”. Posters, personal stickers, and presentations were created to supplemented to enrich our project showcase.  
