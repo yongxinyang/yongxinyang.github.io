@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/printing-cover.jpg
 title: Screen printing
 date: 2021-01-20
 labels:
@@ -11,9 +11,8 @@ labels:
 summary: My group project for high school media learning center showcase.
 ---
 
-<div class="ui small rounded images">
   <img class="ui image" src="../printing-1.JPG">
-</div>
+
 
 This was a final project for my high school media learning center showcase night. What I needed to achieve with my group mates was to design our group shirt, with respect to the school spirit  “ tradition and pride”. Posters, personal stickers, and presentations were created to supplemented to enrich our project showcase.  
 
