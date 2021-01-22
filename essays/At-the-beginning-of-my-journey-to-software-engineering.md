@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "At the beginning of my journey to software engineering "
+title: At the beginning of my journey to software engineering
 date: 2021-01-21
 labels:
   - software engineering
