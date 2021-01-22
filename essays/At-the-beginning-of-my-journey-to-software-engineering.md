@@ -7,9 +7,9 @@ labels:
   - software engineering
 ---
 
-## Software engineering attracts me
-
 <img class ="ui tiny right spaced image" src ="../images/software.jpg">
+
+## Software engineering attracts me
 
 Computers reach nearly every part of life. Mobile payment, online order and delivery, online appointment, social media, and more areas like these are impossible to be on the stage without software engineering. Knowing how languages, algorithms, and logic are involved in the creation of a project as well as how cybersecurity is achieved against the growing hacking techniques is fascinating. Realizing what is in my mind and entertaining others’ lives using software engineering is magically attractive. Software engineers are the ones responsible for developing, designing, testing, writing, modifying, and debugging software based on specific requirements. So you can see,  a great software engineer does require a certain set of skills to achieve a certain set of desires, and taking the time to hone these skills is worthwhile.
 
