@@ -9,7 +9,7 @@ labels:
 
 ## New to JavaScript
 
-<img class ="ui tiny right spaced image" src ="../images/JS.jpg">
+<img class ="ui image" src ="../images/JS.jpg">
 
 My first thought was Javascript is fairly similar to Java. The first few basic parts of the freecodecamp just kept reminding me of Java. Being a  computer science student for the past year, I have been introduced to three useful and common programming languages, Java, C, and C++ . Therefore, things like syntax, naming, looping, concepts such as functions, arrays, objects were not incredibly strange for me to understand. However, my mind had changed as I moved forward to further parts and ES6. Except for the basic syntax and rules, JavaScript is distinct from Java in many ways.
 
