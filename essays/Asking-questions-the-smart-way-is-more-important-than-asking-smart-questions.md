@@ -10,7 +10,7 @@ labels:
 
 ## You can ask questions
 
-<img class ="ui image" src ="../images/JS.jpg">
+<img class ="ui image" src ="../images/askquestion.jpg">
 
 College professors always welcome questions from their students, as they make it a priority that students are acquiring skills and achieving learning outcomes from the class. The time they spend responding to questions is worthwhile and meaningful. In another word, instructors whose job is to answer questions will be more willing to answer questions. When we get out of the school, there are no such instructors who are responsible to answer every single question from strangers. 
 
