@@ -8,7 +8,7 @@ labels:
   - Semantic UI
 ---
 
-<img class ="ui left floated image" src ="../images/framework.jpg">
+<img class ="ui left floated small image" src ="../images/framework.jpg" style="display: inline">
 
 One can encounter many similar problems in their lives, and then develop their own ways to solve the problems effectively. By applying the same or similar strategies, people can save a lot of time instead of starting completely from scratch. In the aspect of web designing, UI Frameworks are structures which a programmer can use to quickly build up a good-looking website as they contain a number of components, styles, menus, etc. Although they can be complicated in some ways, the time spent learning UI Frameworks is worthwhile. Rather than a tool, UI Frameworks are more like a shortcut, or a problem-solving pattern. In fact, we can find many “UI Frameworks” in daily life and work. Examples are various. 
 
@@ -21,7 +21,7 @@ As a student, I am exposed to many formulas when solving math or physics problem
 
 ## My first try with Semantic UI
 
-<img class ="ui right floated image" src ="../images/semantic-ui.jpg">
+<img class ="ui right floated image" src ="../images/semantic-ui.png">
 
 Semantic UI is the only Framework I am introduced to so far, either have I got into it too much or have learned other framework languages and thus I am unable to compare Semantic with another. Despite my limited knowledge of UI Frameworks, I was truly surprised when I could turn a plain, blank or boring canvas into a mastering-look site simply with Semantic UI. It provides multiple pieces of grouping codes, functioning in the creation of components which I’ve found in some other well-built webpages. Before knowing Semantic UI, I had never thought that I could rebuild a single webpage with just a few codes. Elements like icons, dropdowns make the page clear and professional, and Classes such as grid, menus with variations, types defined indicate a straightforward understanding of what the classes can do. With raw HTML and CSS, it probably takes a large amount of time to create even a small section of a webpage. However, with a very basic knowledge of web page design, learning Semantic UI is not easy for me. I have been struggling in nesting grids, rows and columns, content alignment. But what interests me is, when searching for a useful class to be implemented in my WOD, I look through the Semantic UI document and have found out there are numerous ways to change the outlook of a component by easily adding nature words. Getting used to UI Frameworks may have been sort of painful and frustrating at first, but its effectiveness and the practicality in the creation of a well-organized beautiful page makes it worthwhile. 
 
