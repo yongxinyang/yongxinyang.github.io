@@ -8,9 +8,10 @@ labels:
   - Semantic UI
 ---
 
-<img class ="ui small left floated image" src ="../images/framework.jpg" style="display: inline">
-
-<p>One can encounter many similar problems in their lives, and then develop their own ways to solve the problems effectively. By applying the same or similar strategies, people can save a lot of time instead of starting completely from scratch. In the aspect of web designing, UI Frameworks are structures which a programmer can use to quickly build up a good-looking website as they contain a number of components, styles, menus, etc. Although they can be complicated in some ways, the time spent learning UI Frameworks is worthwhile. Rather than a tool, UI Frameworks are more like a shortcut, or a problem-solving pattern. In fact, we can find many “UI Frameworks” in daily life and work. Examples are various.</p> 
+  <img class ="ui left floated image" src ="../images/framework.jpg" style="float: left" width="300px">
+  
+  
+One can encounter many similar problems in their lives, and then develop their own ways to solve the problems effectively. By applying the same or similar strategies, people can save a lot of time instead of starting completely from scratch. In the aspect of web designing, UI Frameworks are structures which a programmer can use to quickly build up a good-looking website as they contain a number of components, styles, menus, etc. Although they can be complicated in some ways, the time spent learning UI Frameworks is worthwhile. Rather than a tool, UI Frameworks are more like a shortcut, or a problem-solving pattern. In fact, we can find many “UI Frameworks” in daily life and work. Examples are various. 
 
 ## "UI Frameworks" and UI Frameworks  
 
