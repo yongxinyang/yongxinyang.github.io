@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "UI Frameworks" in our lives
+title: UI Frameworks in our lives
 date: 2021-02-24
 labels:
   - UI Frameworks
