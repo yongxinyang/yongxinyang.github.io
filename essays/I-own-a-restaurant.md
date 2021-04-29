@@ -33,11 +33,11 @@ Dear readers, as you can see, above is just a made-up story for fun. Upon my und
 
 ## Typical Design Patterns In My Codes
 
-* Model-View-Controller
+### Model-View-Controller
 
 This is probably one of the most design patterns found in my 314 final project, which is a web application designed for manoa students and staff to look for food that is available at the campus.  The ‘Model’ part of this design pattern is our database, containing vendor data, user data and food data. The “View” is what the app visitors have access to. They can use the functionality of the app by simply clicking on the functional buttons. Once the users interact with the “View”, it is noticed by the “Controller”. If we take the sign-in part as an example, the text field that allows the entry of username and password is “View”; the submit button works as the controllers as it notices the status change of the “View” and notices the database to find out if the entry exists in the database. “Controllers” control whether the user home page is rendered or the error page is rendered. If there is no “View”, the users won’t be able to see and interact with anything; if there is no “Controller”, and the submit button won’t do its job; and If “Model” doesn’t exist, it is not making sense for the users to enter the username and password.   
 
-* Singleton Pattern && Observer Pattern
+### Singleton Pattern && Observer Pattern
  
 Some other patterns are also implemented in our code. One is the initialization of collection. Once a collection is created using a scheme, it is exported once and imported by other pages and components. I believe that is how the **singleton pattern** works here. **Observer Pattern** is helpful The vendor collection is subscribed by the all-vendors page and my-vendor page. Once a new vendor is inserted in the database or an existing vendor has its information updated, the pages that subscribe to this publication would also notice those changes and display the right view.
  
