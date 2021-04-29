@@ -18,7 +18,7 @@ I own a restaurant located at Central-Smith street (not Computer Science). After
 	
 That’s interesting and sounds helpful in my business management. I want to know more about the design pattern in software engineering, so I buy Simon a coffee and start to tell him my daily routine. To earn a reputation for my restaurant, I select the best ingredients for my food. Every morning, I bring the shopping list with me and drive to the farm market to purchase the fresh ingredients. The market’s owner, David, is my business partner. He is talented in agriculture and livestock farming. I don’t know how to grow these products, but all I need is just to select and buy what I want. I don’t worry about how to grow the superior cabbages, bell peppers, onions, or carrots as David will be responsible for this. Simon laughs and shows me that this is the circumstance where **Factory Pattern** is established. 
 
- <img class ="ui left floated medium image" src ="../images/Builder_example1.png">
+ <img class ="ui right floated medium image" src ="../images/Builder_example1.png">
  
 Recently I came up with a promotion plan, which is to offer combos to the customers. This is easy to achieve since Instead of creating new dishes, I just need to combine some of the popular items in different ways and give them a sweet price. Each combo contains an appetizer, a meal, a dessert and a drink. This low-cost strategy is successful and the combos rapidly became the top sellers of my restaurant. Simon also approves of my idea and tells me that I have made good use of the **Builder Pattern**. 
 
