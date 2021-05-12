@@ -1,14 +1,13 @@
 ---
 layout: essay
 type: essay
-title: UI Frameworks in our lives
-date: 2021-02-24
+title: This Is Not The End
+date: 2021-05-12
 labels:
-  - UI Frameworks
-  - Semantic UI
+  - Software engineering
 ---
 
- <img class ="ui medium left floated image" src ="../images/framework.jpg">
+ <img class ="ui medium image" src ="../images/languages.jpeg">
   
 According to the statistics, more than 3 billion people are using social media frequently today. How many times a day do you go through Instagram, Facebook, Twitter to learn the worldwide news? How many times a day do you use Google to search for information? Or how many times do you sign up to some web applications to shop online? Long before popular websites and applications that we all know and use today, software engineering was not yet developed systematically, programmers built applications from starch. A massive amount of people use these popular apps everyday, but behind the applications themselves, what makes the applications so functional and efficient is the advancements in software engineering. Through this semester’s learning, I was introduced to a lot of concepts like open-source Software Development, UI frameworks, Functional Programming, design patterns, and so forth. These things work interdependently to serve as a structure today for programmers to develop applications efficiently. The ideas and concepts I’ve gained from this course allow me to understand the establishment of an application little by little, and I realize that a well-developed application requires the more complicated integration of fundamental software engineering concepts than I’ve ever expected it does. 
   
@@ -24,4 +23,4 @@ Agile Project Management generally separates the task into small pieces and make
 
 Overall, this class was more than just learning how to code in JavaScript, HTML and developing web applications. In some ways it opened my eyes to the software engineering field as well as developing my skills of working as a contributive team member.  Through this journey, I have got to know some fundamental software engineering concepts but not in depth, but this definitely motivated me to move on.  Learning is continuing. 
 
-<img class ="ui image" src ="../images/semantic-ui.png">
+<img class ="ui image" src ="../images/software-developer.png">
