@@ -7,7 +7,7 @@ labels:
   - Software engineering
 ---
 
- <img class ="ui image" src ="../images/languages.jpeg">
+ <img class ="ui huge image" src ="../images/languages.jpeg">
   
 According to the statistics, more than 3 billion people are using social media frequently today. How many times a day do you go through Instagram, Facebook, Twitter to learn the worldwide news? How many times a day do you use Google to search for information? Or how many times do you sign up to some web applications to shop online? Long before popular websites and applications that we all know and use today, software engineering was not yet developed systematically, programmers built applications from starch. A massive amount of people use these popular apps everyday, but behind the applications themselves, what makes the applications so functional and efficient is the advancements in software engineering. Through this semester’s learning, I was introduced to a lot of concepts like open-source Software Development, UI frameworks, Functional Programming, design patterns, and so forth. These things work interdependently to serve as a structure today for programmers to develop applications efficiently. The ideas and concepts I’ve gained from this course allow me to understand the establishment of an application little by little, and I realize that a well-developed application requires the more complicated integration of fundamental software engineering concepts than I’ve ever expected it does. 
   
