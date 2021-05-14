@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/pokemon-logo.jpg
+image: images/M2-landing.png
 title: Pokemon Game
 date: 2021-01-20
 labels:
@@ -11,7 +11,9 @@ labels:
 summary: Final group project developed for ICS 314 to help students and faculty look for specific food offered on the campus.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/pokemon.jpg">
+<img class="ui image" src="../images/M2-userhome.png">
+<img class="ui image" src="../images/M2-filtermenu.png">
+<img class="ui image" src="../images/M2-myvendor.png">
 
 ## Project Overview
 
