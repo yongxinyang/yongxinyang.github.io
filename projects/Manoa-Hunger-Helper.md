@@ -12,6 +12,7 @@ summary: Final group project developed for ICS 314 to help students and faculty 
 ---
 
 <img class="ui image" src="../images/M2-userhome.png">
+
 <img class="ui image" src="../images/M2-myvendor.png">
 
 ## Project Overview
@@ -26,13 +27,14 @@ Source code: <a href="https://github.com/manoa-hunger-helper/manoa-hunger-helper
 
 We implement Issue Driven Project Management in our Manoa-Hunger-Eat project. The overall project was divided into three milestones managed using a GitHub Project Board, with each of them containing a bunch of issues. Each teammate was equally assigned to some issues to work on. For Milestone 1, we brainstormed and created mockup pages for our project. The main task of this milestone was to build the structure of the three main roles- user, vendor and admin. This included the first version of the homepages, menu bars and footer. Moving to Milestone 2, we focused on the establishment of the default database. With the initial database we could be able to write the card and form components to display the data in a nice-look way. This process took the most time since the interaction with the database was the most challenging part of the project as well as the crucial part to achieve the functionality of this application. Milestone 3 was a final wrap up, including adding more real data, cleaning-up used code from the template, testing,  and collecting community feedback. Each team member performed skills gained from this course in completing the task on time, and communication was also encouraged, as solving problems independently sometimes could be less efficient than discussing with others. 
 
-Visit project board: <a href=https://github.com/manoa-hunger-helper/manoa-hunger-helper/projects">Manoa-Hunger-Helper Project Board</a>
+Visit project board: <a href="https://github.com/manoa-hunger-helper/manoa-hunger-helper/projects">Manoa-Hunger-Helper Project Board</a>
 
 ## My Contribution 
 
 In regard to the user-interface, I mainly contributed to creating the mockups version of our project and initially setting up the homepage at the beginning. I was responsible for crafting the basic functionality of the user-related pages, which included creating collections for menu items, designing filter menus and recommended menus as well as the way to display menu items.  Thanks Su, Fei, and Jessica for working on the other parts of the project. Each of them was able to work individually and respond to others’ problems timely. Being in this pandemic period made things harder than usual but it was truly an awesome experience for me working as a team with them. 
 
 <img class="ui image" src="../images/M2-todaytoppick.png">
+
 <img class="ui image" src="../images/M2-filtermenu.png">
 
 ## What I learned
